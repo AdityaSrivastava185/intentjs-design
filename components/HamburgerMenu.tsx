@@ -73,7 +73,7 @@ export function HamburgerMenu() {
       <DrawerContent>
         <div className="mx-auto w-full max-w-sm">
           <DrawerHeader>
-            <DrawerTitle className="font-jetmono text-xl">Intentjs</DrawerTitle>
+            <DrawerTitle className="font-jetmono text-xl text-green-400">Intentjs</DrawerTitle>
           </DrawerHeader>
           <DrawerFooter>
             <div className="flex items-center justify-center flex-col gap-4">
